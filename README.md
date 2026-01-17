@@ -116,6 +116,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <!-- ROADMAP -->
 ## Roadmap
+
 - [x] Add Changelog
 - [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
@@ -145,6 +146,7 @@ Don't forget to give the project a star! Thanks again!
 ### Top contributors:
 
 [![Top contributors image](https://contrib.rocks/image?repo=othneildrew/Best-README-Template)](https://github.com/othneildrew/Best-README-Template/graphs/contributors)
+
 <p align="right"> <a href="#readme-top">back to top</a> </p>
 
 <!-- LICENSE -->
